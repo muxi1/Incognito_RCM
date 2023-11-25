@@ -16,16 +16,6 @@ Usage
 * Choose either Incognito (sysNAND) or Incognito (emuMMC) to wipe personal information
 * If you ever want to revert, choose restore menu points
 
-Screenshots
-=
-
-Main            |  Incognito
-:-------------------------:|:-------------------------:
-![](/res/main.png)  |  ![](/res/incognito.png)
-
-Backup            |  Restore
-:-------------------------:|:-------------------------:
-![](/res/backup.png)  |  ![](/res/restore.png)
 
 Building
 =
